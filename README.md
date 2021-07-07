@@ -19,7 +19,7 @@ It is a simple yet efficient face recognition system that that recognize images 
 ## Screenshot
 
 * GUI screen image
-<img src="ss1.JPG" height=700px>
+<img src="ss1.JPG" height=500px>
 
 * Output sample
-<img src="ss2.JPG" height=700px>
+<img src="ss2.JPG" height=400px>
