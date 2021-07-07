@@ -1,9 +1,13 @@
 # Face recognition
 
-It is a simple yet efficient face recognition system that that recognize images with great accuracy.
+It is a simple yet efficient face recognition system that can recognize people with great accuracy.
 
 ## Technologies used
 
+* Python
+* Numpy
+* OpenCV
+* TKinter for frontend
 
 ## Steps to use the system
 
